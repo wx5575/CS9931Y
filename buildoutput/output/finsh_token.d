@@ -1,0 +1,15 @@
+..\buildoutput\output\finsh_token.o: OS\rtthread\components\finsh\finsh_token.c
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\components\finsh\finsh.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\finsh_token.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\buildoutput\output\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\buildoutput\output\finsh_token.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\buildoutput\output\finsh_token.o: OS\rtthread\components\finsh\finsh_token.h
+..\buildoutput\output\finsh_token.o: OS\rtthread\components\finsh\finsh_error.h

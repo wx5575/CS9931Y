@@ -1,0 +1,9 @@
+..\buildoutput\output\ch376_usb_ui.o: BSP\drivers\CH376\src\CH376_USB_UI.C
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\CH376\inc\CH376_USB_UI.H
+..\buildoutput\output\ch376_usb_ui.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\buildoutput\output\ch376_usb_ui.o: .\SCPI\string.h
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\CH376\inc\FILE_SYS.H
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\CH376\inc\HAL.H
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\CH376\inc\CH376INC.H
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\CH376\inc\HAL.H
+..\buildoutput\output\ch376_usb_ui.o: .\BSP\drivers\hid.H

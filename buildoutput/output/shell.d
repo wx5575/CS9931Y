@@ -1,0 +1,15 @@
+..\buildoutput\output\shell.o: OS\rtthread\components\finsh\shell.c
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rthw.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\shell.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\shell.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\shell.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\shell.o: OS\rtthread\components\finsh\finsh.h
+..\buildoutput\output\shell.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+..\buildoutput\output\shell.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\buildoutput\output\shell.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\buildoutput\output\shell.o: OS\rtthread\components\finsh\shell.h

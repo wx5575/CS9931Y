@@ -1,0 +1,24 @@
+#include "CS9931_Config.h"
+
+
+
+
+CS9931_CONFIG_STRUCT CS9931_Config = 
+{
+	TYPE_NAME,
+	_ACW_ENABLE,
+	_DCW_ENABLE,
+	_GR_ENABLE,
+	_LC_ENABLE,
+	_ACW_GR_ENABLE,
+	_DCW_GR_ENABLE,
+	_IR_ENABLE,
+	_PW_ENABLE,
+};
+
+
+
+
+
+
+

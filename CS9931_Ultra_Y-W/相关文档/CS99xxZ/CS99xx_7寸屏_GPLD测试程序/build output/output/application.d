@@ -1,0 +1,9 @@
+.\build output\output\application.o: applications\application.c
+.\build output\output\application.o: d:\Keil\ARM\RV31\Inc\stdio.h
+.\build output\output\application.o: d:\Keil\ARM\Inc\ST\STM32F4xx\stm32f4xx.h
+.\build output\output\application.o: d:\Keil\ARM\CMSIS\Include\core_cm4.h
+.\build output\output\application.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\build output\output\application.o: d:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\build output\output\application.o: d:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\build output\output\application.o: d:\Keil\ARM\CMSIS\Include\core_cm4_simd.h
+.\build output\output\application.o: d:\Keil\ARM\Inc\ST\STM32F4xx\system_stm32f4xx.h

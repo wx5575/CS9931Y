@@ -1,0 +1,10 @@
+..\buildoutput\output\timer.o: OS\rtthread\src\timer.c
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\timer.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\timer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\timer.o: .\OS\rtthread\include\rthw.h

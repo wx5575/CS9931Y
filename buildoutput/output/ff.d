@@ -1,0 +1,13 @@
+..\buildoutput\output\ff.o: OS\rtthread\components\dfs\filesystems\elmfat\ff.c
+..\buildoutput\output\ff.o: OS\rtthread\components\dfs\filesystems\elmfat\ff.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\ff.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\ff.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\ff.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\ff.o: OS\rtthread\components\dfs\filesystems\elmfat\integer.h
+..\buildoutput\output\ff.o: OS\rtthread\components\dfs\filesystems\elmfat\ffconf.h
+..\buildoutput\output\ff.o: OS\rtthread\components\dfs\filesystems\elmfat\diskio.h

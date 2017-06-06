@@ -1,0 +1,9 @@
+.\build output\output\device.o: OS\rtthread\src\device.c
+.\build output\output\device.o: .\OS\rtthread\include\rtthread.h
+.\build output\output\device.o: .\OS\rtthread\rtconfig.h
+.\build output\output\device.o: .\OS\rtthread\include\rtdebug.h
+.\build output\output\device.o: .\OS\rtthread\include\rtdef.h
+.\build output\output\device.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build output\output\device.o: .\OS\rtthread\include\rtservice.h
+.\build output\output\device.o: .\OS\rtthread\include\rtm.h
+.\build output\output\device.o: .\OS\rtthread\include\rtthread.h

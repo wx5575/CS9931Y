@@ -1,0 +1,8 @@
+1.Do not use tester in the flammable air.
+2.Do not use tester in the high heat area.
+3.Do not use tester in the high humidity area.
+4.Do not use tester in the dusty environment.
+5.Do not use tester in the poor ventilated area.
+6.Do not let tester be on slant surfaces or use tester in shaking places.
+7.Do not use tester beside the sensitive equipment or receiving equipment.
+8.The input power of tester must have a separate switch control.

@@ -1,0 +1,9 @@
+..\buildoutput\output\cpuport.o: OS\rtthread\libcpu\arm\cortex-m4\cpuport.c
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\cpuport.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\cpuport.o: .\OS\rtthread\include\rtthread.h

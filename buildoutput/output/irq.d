@@ -1,0 +1,10 @@
+..\buildoutput\output\irq.o: OS\rtthread\src\irq.c
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rthw.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\irq.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\irq.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\irq.o: .\OS\rtthread\include\rtthread.h

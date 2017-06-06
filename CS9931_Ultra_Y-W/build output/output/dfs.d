@@ -1,0 +1,15 @@
+.\build output\output\dfs.o: OS\rtthread\components\dfs\src\dfs.c
+.\build output\output\dfs.o: .\OS\rtthread\components\dfs\include\dfs.h
+.\build output\output\dfs.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\build output\output\dfs.o: .\OS\rtthread\components\dfs\include\dfs_fs.h
+.\build output\output\dfs.o: .\OS\rtthread\components\dfs\include\dfs_def.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtthread.h
+.\build output\output\dfs.o: .\OS\rtthread\rtconfig.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtdebug.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtdef.h
+.\build output\output\dfs.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtservice.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtm.h
+.\build output\output\dfs.o: .\OS\rtthread\include\rtthread.h
+.\build output\output\dfs.o: D:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\build output\output\dfs.o: .\OS\rtthread\components\dfs\include\dfs_file.h

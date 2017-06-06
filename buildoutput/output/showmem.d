@@ -1,0 +1,9 @@
+..\buildoutput\output\showmem.o: OS\rtthread\libcpu\arm\common\showmem.c
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtthread.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\rtconfig.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtdebug.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtdef.h
+..\buildoutput\output\showmem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtservice.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtm.h
+..\buildoutput\output\showmem.o: .\OS\rtthread\include\rtthread.h

@@ -1,0 +1,9 @@
+.\build output\output\backtrace.o: OS\rtthread\libcpu\arm\common\backtrace.c
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtthread.h
+.\build output\output\backtrace.o: .\OS\rtthread\rtconfig.h
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtdebug.h
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtdef.h
+.\build output\output\backtrace.o: D:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtservice.h
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtm.h
+.\build output\output\backtrace.o: .\OS\rtthread\include\rtthread.h
