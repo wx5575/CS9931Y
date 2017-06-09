@@ -12,7 +12,7 @@
 
 
 /* ÒÇÆ÷ÐÍºÅ¶¨Òå */
-#define CS9975F_1 //CS9931YS_PT_2K //CS9931WYS // CS9931YS_1_40A //
+#define CS9931YS_PT_2K //CS9975F_1 //CS9931WYS // CS9931YS_1_40A //
 
 
 #ifdef CS9975F_1

@@ -26,11 +26,108 @@ Project File Date:  05/22/2017
 
 <h2>Output:</h2>
 Build target 'STM32f407'
+compiling application.c...
+applications\application.c(260): warning:  #223-D: function "memory_systems_open" declared implicitly
+        memory_systems_open();
+applications\application.c: 1 warning, 0 errors
+compiling CS99xx.c...
+compiling CS9931_Config.c...
+compiling board.c...
+compiling memory.c...
+compiling idle.c...
+compiling ui_application.c...
+applications\UI\ui_application.c(58): warning:  #223-D: function "ui_title_darw" declared implicitly
+      ui_title_darw(&font,&rect, "");
+applications\UI\ui_application.c(76): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *restrict"
+      strcat(barcode_buf, buf[language]);
+applications\UI\ui_application.c(76): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "const char *restrict"
+      strcat(barcode_buf, buf[language]);
+applications\UI\ui_application.c(77): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "char *restrict"
+      strcat(barcode_buf, barcode);
+applications\UI\ui_application.c(77): warning:  #167-D: argument of type "uint8_t *" is incompatible with parameter of type "const char *restrict"
+      strcat(barcode_buf, barcode);
+applications\UI\ui_application.c(79): warning:  #223-D: function "ui_title_darw" declared implicitly
+      ui_title_darw(&font,&rect, barcode_buf);
+applications\UI\ui_application.c: 6 warnings, 0 errors
+compiling ui_step.c...
+applications\UI\ui_step.c(1651): warning:  #177-D: function "step_set_scanport" was declared but never referenced
+  static rt_uint32_t step_set_scanport(rt_uint32_t port)
+applications\UI\ui_step.c: 1 warning, 0 errors
+compiling ui_system.c...
+applications\UI\ui_system.c(4030): warning:  #223-D: function "APP_CommProtocolLogicInit" declared implicitly
+                                                APP_CommProtocolLogicInit(system_parameter_t.com.address);
+applications\UI\ui_system.c: 1 warning, 0 errors
+compiling ui_about.c...
+compiling ui_autocal.c...
+compiling AD_DA.c...
+compiling Self_Test.c...
+Drivers\Self_Test.c(268): warning:  #128-D: loop is not reachable
+                                for(i=0;i<3;i++)if(Test_Loop_Selftest(i) == 0)break;
+Drivers\Self_Test.c: 1 warning, 0 errors
+compiling PLC.c...
+compiling ACW_Routine.c...
+compiling DCW_Routine.c...
+compiling GR_Routine.c...
+Test_Main\GR_Routine.c(537): warning:  #177-D: variable "res" was declared but never referenced
+                          u32 res = (u32)value;
+Test_Main\GR_Routine.c: 1 warning, 0 errors
+compiling LC_Routine.c...
+Test_Main\LC_Routine.c(1162): warning:  #223-D: function "clear_home_panel" declared implicitly
+                        clear_home_panel(&rect);
+Test_Main\LC_Routine.c(1163): warning:  #223-D: function "display_LC_L_N" declared implicitly
+                        display_LC_L_N(0, 0, NULL);///<刷新相位信息
+Test_Main\LC_Routine.c(1164): warning:  #223-D: function "lc_ui_teststr_darw" declared implicitly
+                        lc_ui_teststr_darw(&font,&rect,buf);
+Test_Main\LC_Routine.c: 3 warnings, 0 errors
+compiling GR.c...
+compiling LC.c...
+Test_Main\LC.c(1071): warning:  #177-D: variable "Current" was declared but never referenced
+        uint32_t Current = 0;
+Test_Main\LC.c: 1 warning, 0 errors
+compiling Output_Control.c...
+compiling Test_Main.c...
+compiling Test_Sched.c...
+.\applications\ext.h(11): warning:  #1-D: last line of file ends without a newline
+  #endif __EXT_H___
+.\applications\ext.h(11): warning:  #14-D: extra text after expected end of preprocessing directive
+  #endif __EXT_H___
+Test_Main\Test_Sched.c(171): warning:  #223-D: function "update_bar_code" declared implicitly
+          update_bar_code(NULL, "");
+Test_Main\Test_Sched.c(172): warning:  #223-D: function "clear_scan_code_buf" declared implicitly
+          clear_scan_code_buf();
+Test_Main\Test_Sched.c(337): warning:  #223-D: function "update_bar_code" declared implicitly
+      update_bar_code(NULL, "");
+Test_Main\Test_Sched.c(873): warning:  #47-D: incompatible redefinition of macro "DEEP_SLOW" (declared at line 105 of "Test_Main\Test_Sched.h")
+  #define DEEP_SLOW             500
+Test_Main\Test_Sched.c(985): warning:  #177-D: variable "t_vol" was declared but never referenced
+      uint16_t t_vol;
+Test_Main\Test_Sched.c(980): warning:  #177-D: function "Test_Sampling_Clock_Sever" was declared but never referenced
+  static void Test_Sampling_Clock_Sever(void *parameter)
+Test_Main\Test_Sched.c: 8 warnings, 0 errors
+compiling Cal.c...
+compiling ACW_GR_Routine.c...
+Test_Main\ACW_GR_Routine.c(25): warning:  #177-D: function "ACW_Test_Inerface_err" was declared but never referenced
+  static void ACW_Test_Inerface_err(uint8_t type,void *value);
+Test_Main\ACW_GR_Routine.c: 1 warning, 0 errors
+compiling DCW_GR_Routine.c...
+compiling PW_Routine.c...
+compiling IR_Routine.c...
+compiling IR.c...
+compiling communication.c...
+SCPI\communication.c(2929): warning:  #550-D: variable "dummy" was set but never used
+                uint8_t dummy;
+SCPI\communication.c(2922): warning:  #177-D: variable "tx_temp" was declared but never referenced
+        uint8_t  tx_temp;
+SCPI\communication.c(3014): warning:  #69-D: integer conversion resulted in truncation
+                Usart2_Tx_Pra.count = USART2_TX_BUF_SIZE;
+SCPI\communication.c(3066): warning:  #940-D: missing return statement at end of non-void function "rt_uart_write"
+  }
+SCPI\communication.c: 4 warnings, 0 errors
 linking...
-Program Size: Code=371536 RO-data=332096 RW-data=7712 ZI-data=31248  
+Program Size: Code=371072 RO-data=331960 RW-data=33316 ZI-data=31252  
 FromELF: creating hex file...
 After Build - User command #1: fromelf.exe --bin -o ./烧录文件/PROGRAM.BIN  ../buildoutput/output/PROGRAM.axf
-"..\buildoutput\output\PROGRAM.axf" - 0 Error(s), 0 Warning(s).
+"..\buildoutput\output\PROGRAM.axf" - 0 Error(s), 28 Warning(s).
 
 <h2>Collection of Component include folders:</h2>
   F:\31\支持中英文切换 - 定制CS9931YS-PT-2K\CS9931_Ultra_Y-W\RTE
